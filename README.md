@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://santiagodeandrade.netlify.app](https://santiagodeandrade.netlify.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **my social network**
 
 - 📫 How to reach me **santiagodeandrade4@gmail.com**
 
-- ⚡ Fun fact **I love to play videogames**
+- ⚡ Fun fact **I love to play videogames and i am a Barca fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
