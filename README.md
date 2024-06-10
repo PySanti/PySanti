@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FriendNet](https://friendnet.netlify.app)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django and DRF**
 
 - 👨‍💻 All of my projects are available at [https://santiagodeandrade.netlify.app](https://santiagodeandrade.netlify.app)
 
