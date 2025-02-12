@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pysanti" alt="pysanti" /></a> </p>
 
-- 🔭 I’m currently working on [FriendNet](https://friendnet.netlify.app)
-
-- 🌱 I’m currently learning **Django and DRF**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://santiagodeandrade.netlify.app](https://santiagodeandrade.netlify.app)
 
