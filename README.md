@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Santiago De Andrade 👋</h1>
 
-<h3 align="center">Computer Vision Engineer | Deep Learning | Full-Stack Developer</h3>
+<h3 align="center">Computer Vision Engineer | Deep Learning </h3>
 
 <p align="center">
   <a href="mailto:santiagodeandrade111@gmail.com">
