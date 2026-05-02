@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pysanti&show_icons=true&locale=en&layout=compact" alt="pysanti top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pysanti&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="pysanti top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pysanti&show_icons=true&locale=en" alt="pysanti GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pysanti&amp;show_icons=true&amp;locale=en" alt="pysanti GitHub stats" />
 </p>
 
 <p align="center">
