@@ -33,7 +33,6 @@ My work is mainly centered around computer vision pipelines, object detection, i
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Image%20Segmentation-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Object%20Detection-00A98F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-24292F?style=for-the-badge" />
 </p>
 
 ---
