@@ -1,17 +1,13 @@
 <h1 align="center">HIIIIII, i'm Santiago De Andrade</h1>
-<h3 align="center">A passionate developer from Venezuela</h3>
+<h3 align="center">A passionate computer vision engineer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pysanti&label=Profile%20views&color=0e75b6&style=flat" alt="pysanti" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pysanti" alt="pysanti" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently working as a **Computer vision engineer**
 
-- 👨‍💻 All of my projects are available at [https://santiagodeandrade.netlify.app](https://santiagodeandrade.netlify.app)
-
-- 💬 Ask me about **my social network**
-
-- 📫 How to reach me **santiagodeandrade4@gmail.com**
+- 📫 How to reach me **santiagodeandrade111@gmail.com**
 
 - ⚡ Fun fact **I love to play videogames and i am a Barca fan**
 
