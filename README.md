@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact: **I love playing video games and I’m a Barça fan**
 
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
