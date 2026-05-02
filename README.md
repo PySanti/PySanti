@@ -6,9 +6,6 @@
   <a href="mailto:santiagodeandrade111@gmail.com">
     <img src="https://img.shields.io/badge/Email-santiagodeandrade111%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://santiagodeandrade.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=pysanti&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
