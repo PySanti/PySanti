@@ -94,29 +94,3 @@ My work is mainly centered around computer vision pipelines, object detection, i
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pysanti&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### Computer Vision Pipeline
-Deep learning pipeline focused on image segmentation, filtering, classification, and real-world computer vision workflows.
-
-### FriendNet
-A social network project built as a full-stack application.
-
-### Machine Learning Experiments
-Projects focused on model training, evaluation, preprocessing, and applied AI systems.
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:santiagodeandrade111@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://santiagodeandrade.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
